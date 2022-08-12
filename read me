@@ -1,0 +1,23 @@
+Problem Statement:
+To create dynamic and interactive website using HTML,CSSS,Mysql that aims to keep the track of 
+medicine available in the pharmaceutical shops. Its’s time redundancy can allow the patients to be 
+briefed with the disease and can help in saving a life incase of emergency.
+OBJECTIVES:
+➢     Order online the medicine available on the nearest pharma.
+➢     Better durability as compared to other brands in the market
+➢     Better Balance and Perfect Punch
+➢     Door step delivery without charges
+➢     Transparency of prices
+➢     Feedback of the product will be highly appreciated
+➢     Realtime medicine updates 
+➢     Reviews on doctors based on which the patient can decide to choose its likeable doctor 
+METHODOLOGY TO BE FOLLOWED:
+o To build this platform, we will be designing the frontend first.
+o With help of many front-end scripting languages like HTML, CSS this web framework
+can be built.
+o In order to take user inputs, concept of web framework called as forms and fields 
+should be implemented. Forms containing user responsive input fields should take in 
+valid inputs on basis of which output will be displayed.
+o The processing of input data can be done with the help of backend languages like 
+Python, JavaScript and MySQL. Validation of the forms can be done with help of 
+JavaScript or Python and MySQL.
